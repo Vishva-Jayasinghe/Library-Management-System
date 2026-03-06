@@ -1,3 +1,5 @@
+SQL Project | PostgreSQL | Database Design | Data Analysis
+
 [library_sql_project_full_readme.md](https://github.com/user-attachments/files/25803492/library_sql_project_full_readme.md)
 
 # Library Management System – SQL Data Analysis Project
@@ -74,7 +76,8 @@ Columns:
 - issued_id (Foreign Key → issued_status.issued_id)
 - return_book_name
 - return_date
-- return_book_id (Foreign Key → books.book_id)
+- return_book_id (Foreign Key<img width="1782" height="2199" alt="data_modeled_ERD pgerd" src="https://github.com/user-attachments/assets/292eada6-0288-4cc1-b1d9-ff4a5fdb67f8" />
+ → books.book_id)
 
 ---
 
